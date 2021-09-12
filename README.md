@@ -6,7 +6,6 @@ I am currently working on becoming a Full Stack Developer.
 - 🌱 I’m currently learning JS and making projects using HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 You can reach me here
-  - [Twitter](https://twitter.com/deek24vk)
   - [LinkedIn](https://www.linkedin.com/in/deekshith-kumar-netha-bamandla-n-097a93160/)
   - [Instagram](https://www.instagram.com/deekshith.netha/)
 
