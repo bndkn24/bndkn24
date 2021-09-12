@@ -1,4 +1,4 @@
-# Hello, I am Deeksith Kumar Netha 👋
+# Hello, I am Deekshith Kumar Netha 👋
 
 I am currently working on becoming a Full Stack Developer.
 
